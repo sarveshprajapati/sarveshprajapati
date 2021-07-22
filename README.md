@@ -19,7 +19,7 @@
 
 ---
 ## My Tools 🛠
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
 width="45" height="45"
 viewBox="0 0 172 172"
@@ -39,7 +39,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 1. Make sure your have installed Node.js
 2. Open your terminal and run this:
 ```javascript
-npx sarveshprajapati
+### npx sarveshprajapati
 ```
 ---
 ## Contact via Email 📧
@@ -48,7 +48,7 @@ thesarveshprajapati@gmail.com
 ---
 ## Free advices 🙂
 ```
-Let the people be the way they are
+### Let the people be the way they are
 ```
 ---
 ### Thanks to check this out. Good Luck. ✨
