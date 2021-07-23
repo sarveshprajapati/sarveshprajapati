@@ -9,8 +9,8 @@
 ---
 
 ## Connect with Me 👇
-[<img src="https://img.icons8.com/color/40/000000/twitter.png"/>](https://twitter.com/iamthesarvesh)
-[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/sarveshprajapati/)
+[<img src="https://img.icons8.com/color/45/000000/twitter.png"/>](https://twitter.com/iamthesarvesh)
+[<img src="https://img.icons8.com/color/45/000000/linkedin.png"/>](https://www.linkedin.com/in/sarveshprajapati/)
 [<img src="https://img.icons8.com/ios-filled/40/ffffff/medium-monogram--v1.png"/>](https://thesarveshprajapati.medium.com/)
 [<img src="https://img.icons8.com/ios-filled/40/ffffff/codepen.png"/>](https://codepen.io/sarveshprajapati)
 [<img src="https://img.icons8.com/office/40/000000/dribbble.png"/>](https://dribbble.com/sarveshprajapati/shots)
