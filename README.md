@@ -47,8 +47,8 @@ thesarveshprajapati@hotmail.com
 
 ---
 ## Free advices 🙂
-```
-Let the people be the way they are
-```
+
+> Let the people be the way they are
+
 ---
 ### Thanks to check this out. Good Luck. ✨
