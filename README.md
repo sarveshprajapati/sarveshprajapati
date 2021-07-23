@@ -38,7 +38,7 @@ style=" fill:#26e07f;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 ## Get me through npm 🔖
 1. Make sure your have installed Node.js
 2. Open your terminal and run this:
-```javascript
+```js
 npx sarveshprajapati
 ```
 ---
