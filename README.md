@@ -43,7 +43,7 @@ npx sarveshprajapati
 ```
 ---
 ## Contact via Email 📧
-thesarveshprajapati@gmail.com
+thesarveshprajapati@hotmail.com
 
 ---
 ## Free advices 🙂
