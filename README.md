@@ -1,6 +1,6 @@
 ## Hey Folks, I'm Sarvesh Prajapati 👋
 
-* 💡 Lerning the living
+* 💡 Learning the living
 * ⚡ Web Dev Guy
 * 👀 Looking for Job & Internship
 * 🚀 Hobbies: Music & Football
